@@ -89,7 +89,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 4.0166666666666675
+    m_Start: 3.316666666666666
     m_ClipIn: 0
     m_Asset: {fileID: -7630378460262437876}
     m_Duration: 2.25
@@ -155,10 +155,10 @@ MonoBehaviour:
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: 0
-    m_PreExtrapolationTime: 4.0166666666666675
+    m_PreExtrapolationTime: 3.316666666666666
     m_DisplayName: Sit To Stand
   - m_Version: 1
-    m_Start: 6.2666666666666675
+    m_Start: 5.566666666666666
     m_ClipIn: 0
     m_Asset: {fileID: -4262805008844736608}
     m_Duration: 2.9833333333333334
@@ -375,7 +375,7 @@ MonoBehaviour:
   m_MatchTargetFields: 63
   m_RemoveStartOffset: 1
   m_ApplyFootIK: 1
-  m_Loop: 1
+  m_Loop: 0
   m_Version: 1
   m_Rotation: {x: 0, y: 0, z: 0, w: 1}
 --- !u!114 &7351790647063146909
@@ -425,7 +425,7 @@ MonoBehaviour:
     m_Start: 0.8333333333333335
     m_ClipIn: 0
     m_Asset: {fileID: 3715132785514618126}
-    m_Duration: 3.183333333333334
+    m_Duration: 2.933333333333333
     m_TimeScale: 1
     m_ParentTrack: {fileID: 8366921849906372192}
     m_EaseInDuration: 0
