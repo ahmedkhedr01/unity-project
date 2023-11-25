@@ -2599,6 +2599,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movieChoiceCanvas: {fileID: 1512808191}
+  timeline: {fileID: 1091966239}
 --- !u!114 &1365848411
 MonoBehaviour:
   m_ObjectHideFlags: 0
